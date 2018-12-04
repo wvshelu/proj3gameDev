@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: da15fbb86a4214647a7ef37b64cbc01c
+  - enabled: 1
+    path: Assets/Scenes/Level0/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level0/SupplyRoom.unity
+    guid: 55d8eba984ff84818a619faa9cfa5521
+  - enabled: 1
+    path: Assets/Scenes/Level0/Lab.unity
+    guid: db24d024bbb17f44cb9b600afe53b264
+  - enabled: 1
+    path: Assets/Scenes/Level0/Closet.unity
+    guid: c8c6671d696098840bf42abdaee5b3c8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Level0/0_ControlBox.unity
+    guid: 0248acc43fc0941e9818c750f17130f5
+  - enabled: 1
+    path: Assets/Scenes/Level0/Death.unity
+    guid: 8a2521d6113074ea3a7530a30ba63073
+  - enabled: 1
+    path: Assets/Scenes/Level1/Hallway.unity
+    guid: 8da5f771eb6fe448298ad2a70fa2711e
+  - enabled: 1
+    path: Assets/Scenes/Level0/OperationRoom.unity
+    guid: 599f97319092f4e02876c1b9c5370a89
+  - enabled: 1
+    path: Assets/Scenes/Level0/Daughter's Bedroom.unity
+    guid: 7e6a46de1dbbcdd46bc875665c15512d
+  - enabled: 1
+    path: Assets/Scenes/Level1/Final.unity
+    guid: a088eee9ad62544ae9f8feb13d8d118e
+  - enabled: 1
+    path: Assets/Scenes/Level1/DaughterFinal.unity
+    guid: aa192ae8e60ee401ebe2fb0dddaee4cb
+  - enabled: 1
+    path: Assets/Scenes/Level1/EndGame.unity
+    guid: 4b211c6a23126f6478ee30b7850e423a
+  m_configObjects: {}

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - Torch
+  - Key2
+  - YellowWire
+  - PurpleWire
+  - RedWire
+  - GreenWire
+  - BlueWire
+  - Slot 1
+  - Slot 2
+  - Slot 3
+  - Slot 4
+  - Slot 5
+  - Slot 6
+  - Ato4
+  - Bto9
+  - Cto5
+  - Dto3
+  - Eto6
+  - ControlText
+  - PlayerHealth
+  - BH
+  - SH
+  - Enemy
+  - OREnemy
+  - Darkness
+  - Bear
+  - RippedBear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Wire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1333846135
+    locked: 0
+  - name: Wall
+    uniqueID: 187588687
+    locked: 0
+  - name: Mold
+    uniqueID: 1796398335
+    locked: 0
+  - name: Torch
+    uniqueID: 2769978205
+    locked: 0
+  - name: Door
+    uniqueID: 705493017
+    locked: 0
+  - name: Background
+    uniqueID: 1801674245
+    locked: 0
+  - name: Key
+    uniqueID: 4128697331
+    locked: 0
+  - name: Player
+    uniqueID: 1071889315
+    locked: 0
+  - name: Picture
+    uniqueID: 1851520247
+    locked: 0
